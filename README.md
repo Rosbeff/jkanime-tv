@@ -24,9 +24,9 @@ Una app independiente conectada a JKAnime, con una interfaz pensada para el mand
 
 | Descubre tu próxima serie | Continúa donde lo dejaste |
 | :--- | :--- |
-| **Últimos episodios** con las novedades de JKAnime y actualización automática al usar Inicio. | **Seguir viendo** con historial y posición de reproducción. |
+| **Últimos episodios** con las novedades de JKAnime y actualización automática al usar Inicio. | **Seguir viendo** con historial, posición de reproducción y opción de quitar series desde los tres puntos. |
 | **Catálogo, búsqueda y ranking** en sus propias secciones. | **Favoritos** para guardar las series que quieres seguir. |
-| **Top animes** con carátulas y sinopsis al seleccionar una serie en TV. | **Capítulos vistos**: marca uno o un bloque completo hasta el episodio que elijas. |
+| **Top de 50 animes** con carátulas, votos y sinopsis al seleccionar una serie en TV. | **Capítulos vistos**: marca uno o un bloque completo hasta el episodio que elijas. |
 | **Episodios por grupos** y búsqueda por número para llegar directamente al capítulo. | **Cuenta opcional** para sincronizar la biblioteca entre tus dispositivos. |
 
 ### Dos formas de disfrutarla
@@ -69,7 +69,7 @@ Al actualizar, instala sobre la versión anterior para conservar tu biblioteca y
 
 Puedes usar la app sin cuenta. Si quieres compartir tu progreso entre móvil y TV:
 
-1. Abre la **primera opción del menú: Iniciar sesión**.
+1. Pulsa el **icono de perfil junto a la lupa** y selecciona **Iniciar sesión**.
 2. Selecciona **Crear cuenta** y elige tu usuario y contraseña.
 3. Guarda el **código privado de recuperación** que se muestra al registrarte.
 4. Inicia sesión con esa misma cuenta en el otro dispositivo.
